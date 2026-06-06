@@ -1,0 +1,16 @@
+{
+	"type": "module",
+	"name": "expense-tracker-cli",
+	"version": "1.0.0",
+	"description": "Simple expense tracker cli",
+	"main": "index.js",
+	"author": "ImRayy",
+	"license": "MIT",
+	"devDependencies": {
+		"@biomejs/biome": "2.4.16",
+		"@types/node": "^25.9.2"
+	},
+	"dependencies": {
+		"@inquirer/prompts": "^8.5.2"
+	}
+}
